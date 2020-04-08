@@ -1,0 +1,31 @@
+Olá usuário! 
+os pacotes alfaJOGO, alfabetizando, alfaJOGO1.1, e agora a versão 2.0, foram desenvolvidos por mim Arthur (idealizador do blog Educadores no Linux). 
+E tem por objetivo ajudar na aprendizagem das letras e na alfabetização digital, dando aos alunos a capacidade de interagir com 
+procedimentos básicos do uso do computador, como digitar, mover o mouse e etc. 
+Instalação!
+1. Se você estiver utilizando o Windows basta instalar o arquivo Python-3.6.5.exe, esse arquivo trata-se do interpretador Python usado para executar
+nosso AlfaJOGO.
+2. Após instalado o interpretador Python, basta clicar duas vezes no arquivo alfaJOGO.py, ou AlfaJOGO1.1.py
+3. Em seguida o Jogo abrirá e você poderá usá-lo normalmente. 
+
+Instalação no Linux!
+Uma boa noticia para o usuário de Linux, provavelmente o interpretador Python já vem instalado no seu sistema. 
+então vamos ao procedimento. 
+1. Coloque o arquivo alfaJOGO.py, ou AlfaJOGO1.1.py, em uma pasta de sua preferencia. 
+2. Abra seu terminal, coso esteja no Ubuntu ou linux mint precione as teclas Crl+alt+T e o terminal abrirá
+3. Navegue até a parta onde está o arquivo
+4. tendo navegado até a pasta digite o seguinte comando: python3 Alfajogo20.py (ou AlfaJOGO, caso possua apenas essa versão)
+E PRONTO! seu jogo será executado. 
+
+Caso não execute você precisará instalar antes no seu linux o IDLE do pyhton, basta digitar o seguinte comando sudo apt-get install idle3
+
+obs! Caso não saiba navegar até a pasta desejada pelo terminal, copie e cole o arquivo alfaJOGO.py, ou AlfaJOGO1.1.py ou alfajogo20 na pasta Documentos. 
+Em seguida digite: cd /home/seuusuário/Documentos (seu usuário deve ser substituído pelo nome de usuário que você utiliza)
+após executar o comando, digite o procedimento 4 descrito acima. 
+ 
+É importante destacar que é de suma importancia o acompanhamento do professor ou aduto alfabetizador no decorrer das atividades usando o jogo. 
+
+Mais informação acesse www.educadoresnolinux.top, ou educadoresnolinux.blogspot.com (ambos são o mesmo site)
+No blog você irá encontrar muitas dicas sobre atividades envolvendo educação e novas tecnologias. 
+
+NÃO DEIXE DE COMPARTILHAR SUA EXPERIÊNCIA NOS COMETÁRIOS DO BLOG! saibe como ajudar a iniciativa acessando educadoresnolinux.top na pagina ajude a iniciativa. 
